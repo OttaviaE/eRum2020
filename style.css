@@ -156,27 +156,16 @@ table caption {
 	 font-family: \"Georgia\", Times, serif;
 }
 
-table tr {
-	margin: 0;
-	padding: 0;
-	 font-family: \"Georgia\", Times, serif;
-	background-color: #fff;
-}
-	table tr:nth-child(2n) {
-		background-color: #f8f8f8;
-	}
-	
 table tr th {
 	margin: 0;
 	padding: .35em .75em;
-	 font-family: \"Georgia\", Times, serif;
-
-        color: #5e67e5;
+	background-color: #fff;
+	color: #5e67e5;
 	font-weight: bold;
 	text-align: center;
 	border: 1px solid #ccc;
-        font-size: 85%;
 }
+
 
 table tr td {
 	margin: 0;
@@ -185,7 +174,6 @@ table tr td {
 	text-align: center;
 	border: 1px solid #ccc;
 	background-color: #ffffff;
-	 font-family: \"Georgia\", Times, serif;
 }
 
 table tr th :first-child, table tr td :first-child { margin-top: 0; }

@@ -116,7 +116,7 @@ $D_{test} = \frac{M_{B7} - M_{B4}}{sd_{B7,B4}}$
 $D_{score} = \frac{D_{practice} + D_{test}}{2}$
 </div>
 
-<div  style="position: fixed; bottom:22%;  left:42%;">
+<div  style="position: fixed; bottom:22%;  left:40%;">
 <h4> <em> D-score </em>algorithms </h4>
 
  <right>
