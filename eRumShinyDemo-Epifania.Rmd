@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 ```{r, out.width="50%%", fig.align='center'}
-knitr::include_graphics("C:/Users/huawei/Desktop/images/cocagood.png")
+knitr::include_graphics("C:/Users/huawei/Desktop/images/coke1.png")
 ```
 
 <!-- the columns should break here -->
@@ -38,7 +38,7 @@ knitr::include_graphics("C:/Users/huawei/Desktop/images/cocagood.png")
 
 <br />
 ```{r, out.width="50%%", fig.align='center'}
-knitr::include_graphics("C:/Users/huawei/Desktop/images/cocabad.png")
+knitr::include_graphics("C:/Users/huawei/Desktop/images/coke2.png")
 ```
 
 </div>
@@ -49,7 +49,7 @@ knitr::include_graphics("C:/Users/huawei/Desktop/images/cocabad.png")
 <div id="test1", style="align="center;">
 <center>
 <h3>IAT structure</h3>
-<table style="width=640px">
+<table style="width=840px">
 <tr>
 <th> Block</th>
 <th> Function </th>
@@ -162,7 +162,7 @@ $D_{score} = \frac{D_{practice} + D_{test}}{2}$
 
 ## Available options {.build}
 
-<div>
+<!-- <div> -->
 <table> 
 <tr>
 <th> </th>
@@ -221,7 +221,7 @@ $D_{score} = \frac{D_{practice} + D_{test}}{2}$
 <td> YES </td>
 </tr>
 </table>
-</div>
+<!-- </div> -->
 
 <div style="position: fixed; bottom: 18%; left: 20%;">
 <table style="width:900px; border:0;">
